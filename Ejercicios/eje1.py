@@ -1,9 +1,5 @@
 #### eje 1 ####
 
-from __future__ import barry_as_FLUFL
-from re import A
-import string
-
 
 print("#### eje 1 ####")
 
